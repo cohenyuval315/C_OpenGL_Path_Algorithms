@@ -13,7 +13,7 @@ Maze:
 - Best-first search
 - Astar
 
-
+in the video , you cant see the context menu , at first i used bf then dfs then astar
 
 
 https://github.com/cohenyuval315/C_OpenGL_Path_Algorithms/assets/61754002/b3ff39b1-3643-4df2-9350-16c3788753c6
