@@ -14,7 +14,10 @@ Maze:
 - Astar
 
 
-https://github.com/cohenyuval315/C_OpenGL_Path_Algorithms/assets/61754002/68560f8f-2f54-42a1-88a4-ccf886de177a
+
+
+https://github.com/cohenyuval315/C_OpenGL_Path_Algorithms/assets/61754002/b3ff39b1-3643-4df2-9350-16c3788753c6
+
 
 
 Graph:
