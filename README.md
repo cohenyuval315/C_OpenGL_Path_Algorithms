@@ -39,12 +39,16 @@ bool INIT_PUZZLE = true  // Default=True; Show the puzzle, cannot be used with I
 in progress
 
 ---
-
+# Preview
+### Maze:
 - in the video , you cant see the context menu , at first i used bf then dfs then astar
 
+https://github.com/cohenyuval315/Path-Algorithms/assets/61754002/2d67ccae-1551-42bd-bd13-f6a42780101c
 
-https://github.com/cohenyuval315/Path-Algorithms/blob/main/assets/61754002/b3ff39b1-3643-4df2-9350-16c3788753c6
+
+## Graph:
+
+https://github.com/cohenyuval315/Path-Algorithms/assets/61754002/b6d7665a-eac7-4319-9824-97c46622fa1d
 
 
-https://github.com/cohenyuval315/Path-Algorithms/assets/61754002/fd7d98f6-d166-4dbd-a91b-c41efad8ddf4
 
