@@ -11,6 +11,8 @@ bool INIT_PUZZLE = true  // Default=True; Show the puzzle, cannot be used with I
 
 ## Features:
 - using context menu , you can choose the path algorithm
+  
+---
 
 ### **Maze**: 
 1. Breadth-first search:  
@@ -25,23 +27,23 @@ bool INIT_PUZZLE = true  // Default=True; Show the puzzle, cannot be used with I
 4. Astar:
   - known target position.
   - explore tiles by considering multiple paths from a starting point to a target ,and selects the shortest path based on heuristic estimates.
-
+---
     
 ### **Graph**
 1. Uniform Cost Search:
   - variant of Dijkstra's algorithm.
   - explores the graph by considering paths with the lowest cumulative cost from the starting point to each node.
-
+---
 
 ### **Puzzle - In Progress**
 in progress
 
-
+---
 
 - in the video , you cant see the context menu , at first i used bf then dfs then astar
 
 
-https://github.com/cohenyuval315/Path-Algorithms/assets/61754002/b3ff39b1-3643-4df2-9350-16c3788753c6
+https://github.com/cohenyuval315/Path-Algorithms/blob/main/assets/61754002/b3ff39b1-3643-4df2-9350-16c3788753c6
 
 
 https://github.com/cohenyuval315/Path-Algorithms/assets/61754002/fd7d98f6-d166-4dbd-a91b-c41efad8ddf4
