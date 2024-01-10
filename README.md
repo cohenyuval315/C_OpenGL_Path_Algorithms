@@ -6,7 +6,6 @@ https://github.com/cohenyuval315/Path-Algorithms/blob/main/Graphics/main.cpp
 ```code
 bool INIT_MAZE = true;  // Default=True - Show the maze in the console
 bool INIT_GRAPH = true;  // Default=True - Show the graph and its nodes in the console, cannot be used with INIT_MAZE (MAZE overides)
-bool INIT_PUZZLE = true  // Default=True; Show the puzzle, cannot be used with INIT_MAZE(overrides) , INIT_GRAPH(overrides)
 ```
 
 ## Features:
@@ -34,9 +33,6 @@ bool INIT_PUZZLE = true  // Default=True; Show the puzzle, cannot be used with I
   - variant of Dijkstra's algorithm.
   - explores the graph by considering paths with the lowest cumulative cost from the starting point to each node.
 ---
-
-### **Puzzle - In Progress**
-in progress
 
 ---
 # Preview
